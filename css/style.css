@@ -68,7 +68,7 @@ body {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    background-color: #f0f8ff);
+    background-color: #f0f8ff;
 }
 
 
@@ -154,7 +154,7 @@ body {
     color: #0d6da5e7;
     background-color: rgb(89, 129, 140, 25%);
     border-radius: 10px;
-    margin 3px;
+    margin: 3px;
 }
 
 /*-----------------Fin Rectangulo Contacto-----------*/
@@ -391,7 +391,7 @@ body {
     margin: 5px auto;
     padding: 3px;
     position: relative;
-    grid-column: 1/;
+    grid-column: 1/2;
     grid-row: 3/4;
 }
 
@@ -507,9 +507,7 @@ body {
         --anchoBarrasSkills: 140px;
     }
 
-    .contenido{
 
-    }
 #AcercaDeMi{
     height: 268px;;
 }
