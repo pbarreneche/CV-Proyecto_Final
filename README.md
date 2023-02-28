@@ -1,3 +1,7 @@
+LO SUBÍ ANTES DEN WEBINAR Y NO PUEDO CORREGIRLO
+AQUI SE ALOJA LA PAGINA https://pbarreneche.github.io/
+
+
 # CV-Proyecto_Final
 
 Este es el proyecto final de FrontEnd de Argentina Programa 4.0.
